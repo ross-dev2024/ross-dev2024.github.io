@@ -1,7 +1,7 @@
 {
-  "name": "鹏展博",
-  "short_name": "鹏展博",
-  "description": "pengzhanbo blog site",
+  "name": "ross.dev",
+  "short_name": "ross",
+  "description": "ross blog site",
   "start_url": "/index.html",
   "icons": [
     {
